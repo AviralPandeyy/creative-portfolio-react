@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Minimal Landing Page",
+    "description": "A minimal responsive landing page built with React & Tailwind.",
+    "image": "/public/assets/landingpage.jpg",
+    "link": "#"
+  },
+  {
+    "id": 2,
+    "title": "E‑commerce UI Mock",
+    "description": "Product grid with filters and cart interactions.",
+    "image": "/public/assets/uimock.jpg",
+    "link": "#"
+  },
+  {
+    "id": 3,
+    "title": "Portfolio CMS Demo",
+    "description": "Small CMS demo fetching project data from a JSON file.",
+    "image": "/public/assets/cms.jpg",
+    "link": "#"
+  }
+]
